@@ -5,7 +5,7 @@ import 'package:intl/intl.dart';
 import 'package:quickalert/models/quickalert_animtype.dart';
 import 'package:quickalert/models/quickalert_type.dart';
 import 'package:quickalert/widgets/quickalert_dialog.dart';
-import 'package:todo_app/components/keyboard_dis.dart';
+import 'package:todo_app/core/components/keyboard_dis.dart';
 import 'package:todo_app/data/model/todo_model.dart';
 import 'package:todo_app/data/service/local_service.dart';
 import 'package:todo_app/view/home_page.dart';
